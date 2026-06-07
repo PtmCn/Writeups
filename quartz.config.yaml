@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: PtmCn.github.io/Blog
+  baseUrl: PtmCn.github.io/Writeups
   ignorePatterns:
     - private
     - templates
