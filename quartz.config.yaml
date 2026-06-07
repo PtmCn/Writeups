@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Writeups testttt
+  pageTitle: PtmCn's Blog
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: PtmCn.github.io/note
+  baseUrl: PtmCn.github.io/Blog
   ignorePatterns:
     - private
     - templates
