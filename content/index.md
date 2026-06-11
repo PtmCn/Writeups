@@ -20,16 +20,95 @@ Hello! I'm a cybersecurity consultant documenting my hands-on journey through va
 
 ---
 
-## 📖 OSCP Certification Pathway
+       ,;'''''''';,
+      |',________,'|        |\| | /~_ | |~> | ~/ | | (~ |_| |
+      |            |        | | | \_/ | |~\ | /_ |_| _) | | |
+       '.________.'       =====================================
 
-### 🧠 [OSCP Core Study Notes](./OSCP/)
-*Structured walkthroughs, methodology maps, and technical breakdowns based on the PEN-200 curriculum.*
 
-* 🛠️ **Information Gathering** & Active/Passive Service Reconnaissance
-* 🔓 **Vulnerability Scanning** & Initial Access Vector Engineering
-* 💻 **Windows & Linux Exploitation** (Buffer Overflows, Public Exploits, Payload Delivery)
-* 👑 **Privilege Escalation** (Misconfigured Services, SUID/GUID binaries, Token Impersonation)
-* 🌐 **Active Directory** (Kerberoasting, BloodHound enumeration, Pass-The-Hash chains)
+
+       ,;'''''''';,           ,;;;;;;;;;;,           ,;'''''''';,
+     ,'  ________  ',       ,;;;;;;;;;;;;;;,       ,'  ||||||||  ',
+     ;,;'        ';,'       ;;;'        ';;'       |||'        '|||
+       '.________.'           '.________.'           '.________.'
+
+          Maguro                   Toro                  Saba
+          (Tuna)               (Fatty Tuna)            (Mackerel)
+
+
+        ==========            ,iiiiiiiiii,           ,;'''''''';,
+     ///==========\\\       ,iiiiiiiiiiiiii,       ,'  ________  ',
+    ///='        '=\\\      iii'        'ii'       ;,;'        ';,'
+       '.________.'           '.________.'           '.________.'
+
+	    Ika                   Sake                  Hamachi
+	  (Squid)               (Salmon)              (Yellowtail)
+
+
+	      ,     ,                                    ,,,,,,,,,,,
+      ;';' ''''' ;,;        ------;;;;------       ,'' ;  ;  ;  ''|||\///
+     ,'  ________  ',      |______|;;|______|      ',,_;__;__;__;,'''/\\\
+     ;,;'        ';,'        |    |;;|    |         |            |
+       '.________.'           '.__|;;|__.'           '.________.'
+
+          Mirugai                Tamago                   Ebi
+       (Giant Clam)            (Cooked Egg)             (Shrimp)
+
+
+ 	     _ ___  _               ,,,,,,,,             ............
+       ,@@@@@@@@@@,         |'''        '''|        ',_;__;__;___;;;;///
+      |'@@@@@@@@@@'|       |,,,,________,,,,|       ',_;__;__;__;'''\\\\
+      |            |         |            |         |            |
+       '.________.'           '.________.'           '.________.'
+
+	    Uni                   Unagi                 Ama Ebi
+	(Sea Urchin)         (Fresh Water Eel)       (Sweet Shrimp)
+
+
+     	                        _ ___  _               _ ___  _
+       ,;'''''''';,           ,;;;;;;;;;;,           .oooooooooo.
+     ,'  _o_o_o_o  ',        |';;;;;;;;;;'|         |'oooooooooo'|
+    ,,,;'        ';,'        |            |         |            |
+       '.________.'           '.________.'           '.________.'
+
+	   Tako                  Tobiko                  Ikura
+	 (Octopus)          (Flying Fish Roe)         (Salmon Roe)
+
+
+
+	     ,;'''';,
+	    |',____,'|        |\/| /| |/ | ~/ | | (~ |_| |
+	    |        |        |  |/~| |\ | /_ |_| _) | | |
+	     '.____.'       ================================
+
+
+
+       ,;'@@';,    ,;'@@';,    ,;'@@';,
+      |',_@@_,'|  |',_@@_,'|  |',_@@_,'|      Tekka Maki
+      |        |  |        |  |        |      (Tuna Roll)
+       '.____.'    '.____.'    '.____.'
+
+
+       ,;'OO';,    ,;'OO';,    ,;'OO';,
+      |',_OO_,'|  |',_OO_,'|  |',_OO_,'|       Kappa Maki
+      |        |  |        |  |        |     (Cucumber Roll)
+       '.____.'    '.____.'    '.____.'
+
+
+       ,;'O@';,    ,;'O@';,    ,;'O@';,
+      |',_@H_,'|  |',_@H_,'|  |',_@H_,'|     California Roll
+      |        |  |        |  |        |
+       '.____.'    '.____.'    '.____.'
+
+
+	      	              ,___/
+	           ,,,,,''''''|#####      Hand Rolled Sushi
+ 	 ,,,,,'''''           |--%%
+        ~--------_____________|==\==
+
+
+Daniel C. Au
+dcau@casbah.acns.nwu.edu
 
 ---
 
