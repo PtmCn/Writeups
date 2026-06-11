@@ -3,7 +3,7 @@ title: "PtmCn@notes:~$ "
 layout: list
 ---
 
-# Welcome to my Digital Garden 
+# Welcome to my Digital Garden
 
 Hello! I'm a cybersecurity consultant documenting my hands-on journey through various lab environments, CTFs, and core certification pathways. This portal serves as my public knowledge repository, technical portfolio, and cheat-sheet reference index.
 
@@ -19,6 +19,8 @@ Hello! I'm a cybersecurity consultant documenting my hands-on journey through va
 * **[HTB Labs](./HTB_Labs/)** — Curated machine walkthroughs focusing on diverse enterprise environments, unique vulnerability components, and modern network vectors.
 
 ---
+
+Don't know what to put here, enjoy some sushi!
 
        ,;'''''''';,
       |',________,'|        |\| | /~_ | |~> | ~/ | | (~ |_| |
