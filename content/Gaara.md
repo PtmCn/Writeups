@@ -119,4 +119,4 @@ this one work
 ![[Pasted image 20260601160027.png]]
 
 ![[Pasted image 20260601160049.png]]
-too many rabbit holes 
+too many rabbit holes bruhh
