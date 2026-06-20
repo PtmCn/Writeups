@@ -31,7 +31,8 @@ Look like port 50881 is also RPC
 we have http on port 80  
 ![[Pasted image 20260620220037.png]]
 as we can see it is using Drupal cms  
-wappalyzer shows it Drupal 7
+wappalyzer shows it Drupal 7  
+
 ![[Pasted image 20260620221457.png]]
 
 tried checking port 50881 for website and don't find any  
@@ -40,7 +41,9 @@ also checked udp
 ```sh
 rustscan --udp --ulimit 5000 -a 192.168.122.193 | tee rustudp.txt
 ```
-![[Pasted image 20260620214825.png]]
+
+![[Pasted image 20260620214825.png]]  
+
 nothing interesting for udp  
 
 ## dir enum
@@ -105,8 +108,8 @@ there is /bin/mount
 GTFObins as always
 ![[Pasted image 20260620231210.png]]
 ![[Pasted image 20260620231508.png]]
-got this error with illegal option -p
-found there is file read SUID
+got this error with illegal option -p  
+found there is file read SUID  
 ![[Pasted image 20260620231539.png]]
 
 ```
@@ -115,3 +118,4 @@ found there is file read SUID
 guess the path  
 ![[Pasted image 20260620231601.png]]
 got the flag !!  
+![[Pasted image 20260620231630.png]]
