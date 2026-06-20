@@ -7,6 +7,7 @@ layout: list
 
 Hello! I'm a cybersecurity consultant documenting my hands-on journey through various lab environments, CTFs, and core certification pathways. This portal serves as my public knowledge repository, technical portfolio, and cheat-sheet reference index.
 
+Please note that most of this page is under development so it expected to find weird things.
 ---
 
 ## 🚀 Lab Writeups & Walkthroughs
