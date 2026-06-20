@@ -3,6 +3,8 @@ Status: In progress
 OS: Linux
 Difficulty: Easy
 tags:
+  - drupal
+  - SUID
 Date: 2026-06-20T17:04:00
 Owned:
 ---
