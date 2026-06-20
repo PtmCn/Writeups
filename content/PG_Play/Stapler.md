@@ -14,6 +14,7 @@ Owned: 2026-06-13T20:18:00
 ```sh
 naabu -host 192.168.191.148 -p - | nerva -v -o allport.txt
 ```
+
 result
 ![[Pasted image 20260606004659.png]]
 
@@ -29,6 +30,7 @@ ftp> get note
 ![[Pasted image 20260606005038.png]]
 
 might be useful later
+
 now we have user:
 Harry
 Elly
