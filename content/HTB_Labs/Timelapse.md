@@ -154,7 +154,7 @@ net user svc_deploy
 ![[Pasted image 20260622011729.png]]
 try to get to Admin's desktop got permission denied  
 
-# LAPS
+# LAPS to root
 LAPS is use so DC can manage local admin password for computer on the domain. 
 LAPS will change local password periodically.
 To Read LAPS password we can run
