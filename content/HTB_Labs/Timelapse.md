@@ -85,7 +85,7 @@ we wil get the pkzip hash then we crack with john
 john hash.txt
 ```
 
-![[Pasted image 20260621220808.png]]
+![[Pasted image 20260621220808.png]]  
 While it is running we will check something else  
 It's taking kinda long don't think this will work but will leave it running just in case  
 We can tell john which wordlist to use
@@ -110,16 +110,16 @@ openssl rsa -in private.pem -out private2.pem
 evil-winrm -i 10.xx.xx.xx -u <UserName> -k $PWD/private2.pem -c $PWD/cert.crt -p ''
 ```
 Extract the key  
-![[Pasted image 20260622005658.png]]
+![[Pasted image 20260622005658.png]]  
 Dump the Cert  
-![[Pasted image 20260622005715.png]]
+![[Pasted image 20260622005715.png]]  
 Decrypt the Key  
-![[Pasted image 20260622005728.png]]
+![[Pasted image 20260622005728.png]]  
 Got Shell as legacyy  
 ```sh
 evil-winrm -i 10.129.7.216 -u legacyy -S -k $PWD/private2.pem -c $PWD/cert.crt
 ```
-![[Pasted image 20260622010158.png]]
+![[Pasted image 20260622010158.png]]  
 The user flag is on Desktop  
 ![[Pasted image 20260622010313.png]]
 # Shell as svc_deploy
@@ -151,8 +151,8 @@ check groups
 ```
 net user svc_deploy
 ```
-![[Pasted image 20260622011729.png]]
-try to get to Admin's desktop got permission denied  
+![[Pasted image 20260622011729.png]]  
+tried to get to Admin's desktop got permission denied  
 
 # LAPS to root
 LAPS is use so DC can manage local admin password for computer on the domain. 
@@ -173,7 +173,7 @@ evil-winrm -i 10.129.7.216 -u administrator -p '3B;cE3K&GGnc#m!0Qi(Hh#hQ' -S
 success!  
 ![[Pasted image 20260622012515.png]]
 Note: the reason there is not flag on Admin's desktop is HTB labs need to be able to access Administrator account with password. Since this machine have LAPS setup the password always change. So there is another account for the root flag
-![[Pasted image 20260622012651.png]]
+![[Pasted image 20260622012651.png]]  
 here we go  
 ![[Pasted image 20260622012726.png]]
 ![[Pasted image 20260622012850.png]]
