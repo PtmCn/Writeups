@@ -235,10 +235,14 @@ plugins:
     options:
       includeAll: false
       includedProperties:
+	- OS
+	- Difficulty
         - description
         - tags
         - aliases
-      excludedProperties: []
+	- Date
+	- Owned
+      excludedProperties: [Status]
       hidePropertiesView: false
       delimiters: ---
       language: yaml
