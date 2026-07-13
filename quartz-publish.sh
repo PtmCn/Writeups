@@ -24,4 +24,4 @@ grep -oE '[^\[\|]*\.(png|jpg|jpeg|gif)' "$1" | sed 's/^ *//' | while read -r fil
 done
 
 # 6. Deploy to GitHub Pages
-# cd "$QUARTZ_DIR" && npx quartz sync --no-pull
+ cd "$QUARTZ_DIR" && npx quartz sync --no-pull

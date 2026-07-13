@@ -235,13 +235,13 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-	- OS
-	- Difficulty
+        - OS
+        - Difficulty
         - description
         - tags
         - aliases
-	- Date
-	- Owned
+        - Date
+        - Owned
       excludedProperties: [Status]
       hidePropertiesView: false
       delimiters: ---
