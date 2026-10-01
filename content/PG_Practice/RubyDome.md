@@ -5,6 +5,7 @@ Difficulty: Easy
 tags:
   - ruby
   - pdfkit
+  - sudoer
 Date: 2026-07-22T22:50:00
 Owned: 2026-07-22T23:48:00
 ---
